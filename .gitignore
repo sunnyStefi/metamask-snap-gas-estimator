@@ -4,7 +4,7 @@ build/
 coverage/
 .cache/
 public/
-.vscode
+.vscode/
 
 # Logs
 logs
